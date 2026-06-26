@@ -720,14 +720,4 @@ so the performance reduces.
 
 
 
-"""# **Declaration of AI usage**
-
-AI was used in this project only for basic understanding and guidance. It helped me understand the concepts of MLP and CNN, clear doubts related to PyTorch such as tensors, data loading, and training process, and also get an idea about how to structure the code and create plots like accuracy, loss, and feature maps.
-
-All the main work in this project was done by me. This includes loading and preprocessing the CIFAR-10 dataset, building the MLP and CNN models using fully connected layers, convolution layers, ReLU activation, and pooling layers with stride 2. I also implemented the training process using cross-entropy loss, performed experiments such as changing model capacity, pixel shuffling, and shifting images, and created all the required graphs and visualizations including feature maps.
-
-All the observations, results, and conclusions in this  are based on my own understanding.
-
-No code has been directly copied from any AI tool. I first understood the logic and then wrote and modified the code myself.
-"""
 
